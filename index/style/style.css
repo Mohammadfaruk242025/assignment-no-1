@@ -1,5 +1,8 @@
 
-
+{
+  height: 4043px;
+width: 1440px;
+}
 
 .back-ground-image{
     background-image: url(../../Assets/Hero-bg.png);
@@ -158,4 +161,24 @@ width: 497px;
   background-color: white;
  
 
+}
+/* starting section -5  */
+.section-5-container{
+  font-size: 100px;
+  color: blue;
+  text-align: center;
+
+
+
+}
+
+li { list-style: none;
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+ 
+}
+.moon{
+  color: grey;
+  text-align: center;
 }
