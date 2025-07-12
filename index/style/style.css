@@ -97,3 +97,35 @@ border-radius: 10px;
 background-color: #4E47FF;
 margin-left:141px;
 justify-content: left;}
+
+
+/* section-3 starting */  
+
+.title-head{
+  text-align: center;
+  font-size: 38px;
+}
+.container-50k{
+display: flex;
+gap: 100px;
+justify-content: center;
+
+color:blue;
+
+}
+.background-50k{
+height: 306px;
+width: 1140px;
+background-color: lightskyblue;
+margin-left: 140px; 
+margin-right: 160px;
+padding-top: 50px;
+
+}
+.title{
+  font-size:90px;
+}
+.sub-title{
+  font-size: 20px;
+padding-bottom:50px;
+}
